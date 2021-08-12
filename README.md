@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhv0311
-- 👀 I’m interested in Machine Learning and Android Development
+- 👀 I’m interested in Android Development and Cloud Computing
 - 🌱 I’m currently pursuing B.Tech CSE
 - 💞️ I’m looking to collaborate on open-source projects and learn more about the community
 - 📫 How to reach me 
